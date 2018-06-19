@@ -1,0 +1,525 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: '微软雅黑';
+}
+ul,li,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.clear:after{
+	content: "";
+	height: 0;
+	display: block;
+	clear: both;
+}
+/*header开始*/
+.head1{
+	height: 450px;
+	width: 100%;
+	background-color: #e1e1e1;
+}
+.head2{
+	height: 450px;
+	width: 1428px;
+	background: url(../images/u1.png) no-repeat center center;
+	margin: 0 auto;
+	position: relative;
+}
+.head3{
+	height: 58px;
+	background-color: black;
+	width: 590px;
+	position: absolute;
+	bottom: 70px;
+	left: 420px;
+	opacity: 0.5;
+}
+.head6{
+	height: 49px;
+	background-color: white;
+	width: 584px;
+	position: absolute;
+	bottom: 74px;
+	left: 423px;
+	font-size: 18px;
+	border-radius: 5px;
+}
+.head4{
+	height: 49px;
+    width: 128px;
+    border: 0;
+    background: url(../images/u40.png) no-repeat center center;
+    float: right;
+}
+.head5{
+	height: 49px;
+	width: 146px;
+	background-color: #f2f3f7;
+	border-radius: 5px;
+	float: left;
+}
+.head5 p{
+	margin-right: 10px;
+	float: right;
+	background: url(../images/u39.png) no-repeat left center;
+	padding: 0 30px;
+	margin-top: 12px;
+}
+.head7{
+	height: 49px;
+	color: #9d9d9d;
+	width: 310px;
+	background-color: white;
+	float: left;
+}
+.head7 li{
+	margin-left: 18px;
+	margin-top: 15px;
+	float: left;
+}
+.head7 li:first-child{
+	margin-left: 12px;
+	background: url(../images/u41.png) no-repeat left center;
+	padding: 0 15px;
+}
+.header1{
+	height: 47px;
+	width: 100%;
+	background-color: #1c5080;
+}
+.header2{
+	height: 47px;
+	width: 100%;
+	margin: 0 auto;
+}
+.header2 p{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	padding-top: 10px
+}
+.header3{
+	height: 56px;
+	width: 100%;
+	background-color: white;
+}
+.header3 div{
+	height: 56px;
+	width: 1428px;
+	background: url(../images/u8.png) no-repeat center center;
+	margin: 0 auto;
+}
+.begin1{
+	height: 718px;
+	width: 100%;
+	background-color: white;
+}
+.begin2{
+	width: 1200px;
+	height: 718px;
+	margin: 0 auto;
+}
+.begin3{
+	height: 312px;
+	width: 1200px;
+	color: white;
+	background: url(../images/u11.png) no-repeat center center;
+	position: relative;
+}
+.begin3 p{
+	text-align: center;
+	font-size: 36px;
+	padding-top: 48px;
+}
+.logo1{
+	height: 30px;
+	top: 148px;
+	left: 370px;
+	position: absolute;
+	font-size: 18px;
+	background: url(../images/u42.png) no-repeat left center;
+	padding-left: 40px;
+}
+.logo2{
+	background: url(../images/u43.png) no-repeat left center;
+	top: 148px;
+	left: 610px;
+	position: absolute;
+	padding-left: 40px;
+	height: 30px;
+}
+.logo3{
+	background: url(../images/u10.png) no-repeat left center;
+	top: 217px;
+	left: 405px;
+	position: absolute;
+	padding-left: 40px;
+	height: 30px;
+}
+.begin4{
+	height: 364px;
+	width: 1200px;
+	color: white;
+	background-color: #1c5080;
+	margin-top: 25px;
+	border-radius: 5px;
+}
+.route{
+	width: 100%;
+	height: 247px;
+	background-color: white;
+}
+.route1{
+	width: 1200px;
+	height: 247px;
+	background: url(../images/u15.png) no-repeat center center;
+	margin: 0 auto;
+	position: relative;
+}
+.route2{
+	position: absolute;
+	top: 73px;
+	left: 468px;
+}
+.route2 li{
+	color: black;
+	float: left;
+	padding: 0 15px;
+	font-size: 36px;
+}
+.route3{
+	background: url(../images/u8.jpg) no-repeat left center;
+}
+.route1 p{
+	font-size: 18px;
+	position: absolute;
+	top: 125px;
+	left: 508px;
+}
+.routep1{
+	width: 100%;
+	height: 1020px;
+	background-color: white;
+}
+.routep4{
+	width: 1200px;
+	height: 1020px;
+	margin: 0 auto;
+}
+.routep2{
+	height: 100px;
+	background-color: black;
+	width: 588px;
+	margin-bottom: 4px;
+}
+.routep1 p{
+	margin-left: 33px;
+	font-size: 20px;
+	color: white;
+	line-height: 45px;
+}
+.routep3{
+	height: 89px;
+	background-color: black;
+	width: 588px;
+}
+.routep3 p{
+	margin-left: 33px;
+	font-size: 20px;
+	color: white;
+	line-height: 40px;
+}
+.routep5{
+	width: 588px;
+	height: 1020px;
+	margin: 0 auto;
+	float: left;
+	margin-left: 4px;
+}
+.routep6{
+	height: 437px;
+}
+.routea{
+	height: 291px;
+	background: url(../images/u14.png) no-repeat center center;
+	position: relative;
+	margin-bottom: 4px
+}
+.routeb{
+	height: 355px;
+	background: url(../images/u13.png) no-repeat center center;
+	position: relative;
+	margin-bottom: 4px
+}
+.routec{
+	height: 365px;
+	background: url(../images/u12.png) no-repeat center center;
+	position: relative;
+}
+.routep7{
+	height: 87px;
+	width: 590px;
+	opacity: 0.6;
+	background-color: black;
+	position: absolute;
+	bottom: 0px;
+}
+.routep7 p{
+	margin-left: 33px;
+	font-size: 20px;
+	color: white;
+	line-height: 40px;
+}
+.routep8{
+	font-size: 30px;
+}
+.tour{
+	height: 430px;
+	width: 100%;
+}
+.tour1{
+	height: 430px;
+	background: url(../images/u29.png) no-repeat center center;
+	width: 1428px;
+	margin: 0 auto;
+	position: relative;
+}
+.tour2{
+	position: absolute;
+	top: 82px;
+	left: 550px;
+}
+.tour2 li{
+	color: black;
+	float: left;
+	padding: 0 15px;
+	font-size: 36px;
+}
+.tour3{
+	background: url(../images/u8.jpg) no-repeat left center;
+}
+.tour1 p{
+	font-size: 18px;
+	position: absolute;
+	top: 140px;
+	left: 630px;
+}
+.tour4{
+	width: 1100px;
+	height: 165px;
+	position: absolute;
+	top: 280px;
+	left: 200px;
+}
+.tour4 li{
+	height: 40px;
+	float: left;
+	margin-left: 85px;
+	margin-bottom: 45px;
+	padding: 0 45px;
+}
+.toura{
+	background: url(../images/u9.jpg) no-repeat left center;
+}
+.tourb{
+	background: url(../images/u10.jpg) no-repeat left center;
+}
+.tourc{
+	background: url(../images/u11.jpg) no-repeat left center;
+}
+.tourd{
+	background: url(../images/u12.jpg) no-repeat left center;
+}
+.toure{
+	background: url(../images/u13.jpg) no-repeat left center;
+}
+.tourf{
+	background: url(../images/u14.jpg) no-repeat left center;
+}
+.tourg{
+	background: url(../images/u15.jpg) no-repeat left center;
+}
+.tourh{
+	background: url(../images/u16.jpg) no-repeat left center;
+}
+.tourp1{
+	height: 825px;
+	width: 100%;
+}
+.tourp2{
+	height: 825px;
+	width: 1200px;
+	margin: 0 auto;
+	background: url(../images/u21.png) no-repeat center center;
+	position: relative;
+}
+.tourp3{
+	float: left;
+	position: relative;
+	height: 448px;
+	width: 263px;
+}
+.tourpa{
+	height: 80px;
+	width: 263px;
+	opacity: 0.6;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	background-color: black;
+}
+.tourpb{
+	height: 80px;
+	width: 663px;
+	opacity: 0.6;
+	position: absolute;
+	bottom: 4px;
+	left: 4px;
+	background-color: black;
+}
+.tourpa p{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	opacity: 1;
+	margin-top: 22px
+}
+.tourpb p{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	opacity: 1;
+	margin-top: 22px
+}
+.tourp4{
+	float: right;
+	position: relative;
+}
+.tourp5{
+	position: absolute;
+	top: 280px;
+	left: 264px;
+}
+.good{
+	height: 202px;
+	width: 100%;
+}
+.good1{
+	height: 202px;
+	width: 1428px;
+	background: url(../images/u30.png) no-repeat center center;
+	margin: 0 auto;
+	position: relative;
+}
+.good2{
+	position: absolute;
+	top: -10px;
+	left: 585px;
+}
+.good2 li{
+	color: black;
+	float: left;
+	padding: 0 15px;
+	font-size: 36px;
+}
+.good3{
+	background: url(../images/u8.jpg) no-repeat left center;
+}
+.good4{
+	font-size: 18px;
+	position: absolute;
+	top: 45px;
+	left: 620px;
+}
+.good5{
+	font-size: 20px;
+	position: absolute;
+	top: 130px;
+	left: 490px;
+}
+.goodp{
+	height: 750px;
+	width: 100%;
+}
+.goodp1{
+	height: 750px;
+	width: 1202px;
+	margin: 0 auto;
+}
+.goodp2{
+	height: 555px;
+	width: 397px;
+	float: left;
+	position: relative;
+}
+.goodp3{
+	width: 805px;
+	height: 560px;
+	float: left;
+}
+.goodp3 li{
+	float: left;
+	margin-left: 4px;
+	position: relative;
+}
+.goodpa{
+	height: 70px;
+	width: 398px;
+	opacity: 0.6;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	background-color: black;
+}
+.goodpa p{
+	color: white;
+	font-size: 20px;
+	opacity: 1;
+	margin-top: 10px;
+	text-align: center;
+}
+.goodpa1{
+	font-size: 30px;
+}
+.goodpa2{
+	padding-left: 20px
+}
+.goodpb{
+	height: 50px;
+	width: 398px;
+	opacity: 0.6;
+	position: absolute;
+	bottom: 4px;
+	left: 0px;
+	background-color: black;
+}
+.goodpb1{
+	color: white;
+	font-size: 20px;
+	opacity: 1;
+	margin-top: 2px;
+	text-align: center;
+}
+.picture{
+	height: 345px;
+	width: 100%;
+}
+.picture1{
+	background: url(../images/u32.png) no-repeat center center;
+	height: 345px;
+	width: 1428px;
+	margin: 0 auto;
+}
+.last{
+	height: 1582px;
+	width: 100%;
+}
+.last1{
+	height: 1582px;
+	width: 1428px;
+	background: url(../images/u38.png) no-repeat center center;
+	margin: 0 auto;
+}
