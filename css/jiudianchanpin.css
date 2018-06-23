@@ -136,6 +136,8 @@ a{
 .middle .navm span{
 	display:block;
 	padding-top:43px;
+	font-size:18px;
+	font-family: "Microsoft YaHei";
 }
 .middle .middle1{
 	width:1200px;
