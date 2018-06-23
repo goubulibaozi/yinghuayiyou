@@ -159,6 +159,50 @@ a{
 	padding-left: 40px;
 	height: 30px;
 }
+.logo4{
+	position: absolute;
+	top: 0px;
+	left: 100px;
+	position: relative;
+}
+.logo4 div{
+	position: absolute;
+	top: 15px;
+	left: 15px;
+}
+.logo5{
+	position: absolute;
+	top: 80px;
+	left: 300px;
+	opacity: 0.6;
+}
+.logo6{
+	position: absolute;
+	top: 80px;
+	right: 300px;
+	opacity: 0.6;
+}
+.logo7{
+	height: 50px;
+	width: 177px;
+	border: 1px solid white;
+	border-radius: 9px;
+	position: absolute;
+	right: 60px;
+	top: 125px;
+}
+.logo7 div{
+	color: white;
+	font-size: 26px;
+	margin-top: 7px;
+	text-align: center;
+}
+.begin3 h3{
+	position: absolute;
+	top: 200px;
+	left: 110px;
+	font-size: 26px;
+}
 .begin4{
 	height: 364px;
 	width: 1200px;
@@ -166,6 +210,38 @@ a{
 	background-color: #1c5080;
 	margin-top: 25px;
 	border-radius: 5px;
+	position: relative;
+}
+.begin5{
+	position: absolute;
+	top: 50px;
+	right: 90px;
+}
+.begin6{
+	position: absolute;
+	top: 80px;
+	right: 105px;
+}
+.begin4 h3{
+	position: absolute;
+	top: 155px;
+	right: 80px;
+	font-size: 26px;
+}
+.begin7{
+	height: 50px;
+	width: 177px;
+	border: 1px solid white;
+	border-radius: 9px;
+	position: absolute;
+	right: 40px;
+	bottom: 70px;
+}
+.begin7 div{
+	color: white;
+	font-size: 26px;
+	margin-top: 7px;
+	text-align: center;
 }
 .route{
 	width: 100%;
@@ -208,6 +284,21 @@ a{
 	width: 1200px;
 	height: 1020px;
 	margin: 0 auto;
+	position: relative;
+}
+.routepa{
+	position: absolute;
+	width: 15px;
+	height: 26px;
+	top: 450px;
+	left: -50px;
+}
+.routepb{
+	position: absolute;
+	width: 15px;
+	height: 26px;
+	top: 450px;
+	right: -45px;
 }
 .routep2{
 	height: 100px;
@@ -356,6 +447,20 @@ a{
 	background: url(../images/u21.png) no-repeat center center;
 	position: relative;
 }
+.tourp2a{
+	height: 19px;
+	width: 11px;
+	position: absolute;
+	bottom: 65px;
+	left: 500px;
+}
+.tourp2b{
+	height: 19px;
+	width: 11px;
+	position: absolute;
+	bottom: 65px;
+	right: 510px;
+}
 .tourp3{
 	float: left;
 	position: relative;
@@ -448,6 +553,7 @@ a{
 	height: 750px;
 	width: 1202px;
 	margin: 0 auto;
+	position: relative;
 }
 .goodp2{
 	height: 555px;
@@ -503,6 +609,23 @@ a{
 	margin-top: 2px;
 	text-align: center;
 }
+.goodp4{
+	height: 50px;
+	width: 230px;
+	border: 1px solid black;
+	border-radius: 9px;
+	position: absolute;
+	bottom: 95px;
+	left: 500px;
+}
+.goodp4 p{
+	width: 190px;
+	font-size: 26px;
+	margin-top: 7px;
+	text-align: center;
+	background: url(../images/u48.png) no-repeat right center;
+	padding-right: 0px;
+}
 .picture{
 	height: 345px;
 	width: 100%;
@@ -522,4 +645,353 @@ a{
 	width: 1428px;
 	background: url(../images/u38.png) no-repeat center center;
 	margin: 0 auto;
+}
+.last2{
+	height: 1582px;
+	width: 1200px;
+	margin: 0 auto;
+	position: relative;
+}
+.last2 h1{
+	font-size: 36px;
+	color: black;
+	text-align: center;
+	padding-top: 150px;
+}
+.last2 h2{
+	font-size: 16px;
+	color: black;
+	text-align: center;
+	padding-top: 27px;
+	padding-bottom: 60px;
+}
+.last3{
+	height: 400px;
+	width: 1200px;
+	background-color: #1c5080;
+}
+.last3 ul>li{
+	height: 300px;
+	width: 300px;
+	float: left;
+	margin-top: 45px;
+}
+.last3 ul>li:first-child{
+	margin-left: 150px;
+}
+.last3 ul li p{
+	text-align: center;
+	font-size: 16px;
+	color:white;
+	line-height: 35px;
+}
+.last3 ul li img{
+	margin-left: 55px;
+}
+.last4{
+	width: 705px;
+	height: 400px;
+	position: absolute;
+	top: 254px;
+	right: 0px;
+	background: url(../images/u47.png) no-repeat center center;
+}
+.last4 h4{
+	color: white;
+	font-size: 26px;
+	margin-top: 140px;
+	text-align: center;
+}
+.last4 div{
+	height: 130px;
+	width: 530px;
+	margin-left: 90px;
+}
+.last4 div p{
+	color: white;
+	font-size: 16px;
+	margin-top: 40px;
+	line-height: 35px;
+}
+.float{
+	height: 390px;
+	width: 47px;
+	position: fixed;
+	right: 0px;
+	top: 50px;
+	background-color: white;
+}
+.float ul li{
+	width: 47px;
+	height: 47px;
+	margin-bottom: 1px;
+}
+.float>div{
+	width: 47px;
+	height: 150px;
+	background-color: #e8420a;
+}
+.float div p{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.float div p:first-child{
+	background: url(../images/u49.png) no-repeat top center;
+	padding-top: 23px;
+}
+.float2{
+	position: relative;
+}
+.float1{
+	position: absolute;
+	top: 0px;
+	left: -113px;
+	display: none;
+	height: 134px;
+}
+.float2:hover .float1{
+	display: block;
+}
+.box{
+	width:100%;
+	height:3000px;
+}
+.long{
+	width:100%;
+	height:40px;
+	background-color:#333333;
+}
+.one{
+	width:1200px;
+	height:40px;
+	margin:0 auto;
+}
+.two{
+	width:1200px;
+	height:60px;
+	margin:0 auto;
+}
+.o{
+	display:inline-block;
+	margin-left:20px;
+	float:left;
+	font-size:20px;
+}
+.o:hover{
+	color:#e8420a;
+	text-decoration:underline;
+}
+.mu{
+	position:relative;
+	display:inline-block;
+	margin-left:20px;
+	float:left;
+	font-size:20px;
+}
+.mu:hover{
+	color:#e8420a;
+	text-decoration:underline;
+}
+.hide{
+	width:70px;
+	height:40px;
+	font-size:20px;
+	position:absolute;
+	display:none;
+	background-color:#ffffff;
+}
+.hide li{
+	line-height:20px;
+	float:left;
+}
+.hide li:hover{
+	color:#e8420a;
+	text-decoration:underline;
+}
+.mu:hover .hide{
+	display:block;
+
+}
+.ten{
+	width:100%;
+	height:220px;
+	background-color:#333333;
+	border-bottom:1px solid #404040;
+}
+.first{
+	width:1200px;
+	height:220px;
+	margin:0 auto;
+}
+.a{
+	width:700px;
+	height:170px;
+	float:left;
+	padding-top:50px;
+}
+.red{
+	width:110px;
+	height:250px;
+	float:left;
+	margin-right:17px;
+}
+.red li:first-child{
+	font:18px "微软雅黑";
+	color:#ffffff;
+	float:left;
+}
+.red li{
+	font:14px "微软雅黑";
+	color:#868686;
+	float:left;
+	margin-top:15px;
+}
+.gray{
+	width:80px;
+	height:250px;
+	float:left;
+	margin-right:17px;
+	text-align:center;
+	position:relative;
+}
+.gray li{
+	font:14px "微软雅黑";
+	color:#868686;
+	float:left;
+	margin-top:15px;
+}
+.hi{
+	position:absolute;
+	display:none;
+	left:70px;
+	top:50px;
+}
+.gray:hover .hi{
+	display:block;
+}
+.b{
+	width:400px;
+	height:77px;
+	float:right;
+	padding-top:70px;
+}
+.cry{
+	width:70px;
+	height:77px;
+	float:left;
+	color:#ffffff;
+}
+.sad{
+	width:120px;
+	height:77px;
+	float:left;
+	margin-right:20px;
+}
+.sad li:first-child{
+	font:18px "微软雅黑";
+	float:left;
+	color:#ffffff;
+}
+.sad li{
+	font-size:14px;
+	float:left;
+	margin-top:5px;
+	color:#868686;
+}
+.laugh{
+	width:180px;
+	height:77px;
+	font:18px "微软雅黑";
+	float:left;
+	color:#ffffff;
+}
+.laugh li{
+	float:left;
+}
+.laugh li:last-child{
+	margin-top:10px;
+}
+.c{
+	width:440px;
+	height:40px;
+	text-align:center;
+	font:14px "微软雅黑";
+	color:#868686;
+	float:right;
+}
+.c p{
+	margin-top:6px;
+}
+.eleven{
+	width:100%;
+	height:220px;
+	background-color:#333333;
+	border-bottom:1px solid #404040;
+}
+.second{
+	width:1200px;
+	height:65px;
+	margin:0 auto;
+}
+.cooperationq{
+	width:80px;
+	height:65px;
+	font:18px "微软雅黑";
+	float:left;
+	text-align:center;
+	color:#868686;
+}
+.cooperation{
+	width:150px;
+	height:65px;
+	font:14px "微软雅黑";
+	float:left;
+	text-align: center;
+	color:#868686;
+}
+.zi{
+	float:left;
+	text-align:center;
+	width:150px;
+	height:20px;
+}
+.third{
+	width:1200px;
+	height:155px;
+	margin:0 auto;
+}
+.able{
+	width:1200px;
+	height:50px;
+}
+.able li:first-child{
+	font:18px "微软雅黑";
+	color:#868686;
+	float:left;
+}
+.able li{
+	font:14px "微软雅黑";
+	color:#868686;
+	float:left;
+	margin-left:15px;
+}
+.twelve{
+	width:100%;
+	height:60px;
+	background-color:#333333;
+	border-bottom:1px solid #404040;
+}
+.both{
+	width:1200px;
+	height:60px;
+	font:14px "微软雅黑";
+	color:#868686;
+	text-align:center;
+	margin:0 auto;
+}
+.final{
+	margin-top:15px;
 }
