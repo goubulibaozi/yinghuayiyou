@@ -264,7 +264,9 @@ a{
 .travel1>ul>li:last-child ul>li ol li{
 	width:240px;
 	line-height:20px;
-}
+	list-style:decimal;
+	list-style-position:inside;
+} 
 .travel1>ul>li:last-child ul>li:last-child p{
 	display:inline-block;
 	width:140px;
@@ -273,12 +275,10 @@ a{
 }
 .travel1>ul>li:last-child .travel2{
 	width:705px;
-	/*height:35px;*/
 	background-color:pink;
 }
 .travel1>ul>li:last-child .travel2 .travel3{
 	width:350px;
-	/*height:35px;*/
 	float:right;
 	margin-right:38px;
 }
