@@ -153,6 +153,7 @@ a{
 }
 .middle .middle1 .left1 li:last-child ul li{
 	float:left;
+	margin-left:2px;
 }
 .middle .middle1 .right1{
 	width:482px;
