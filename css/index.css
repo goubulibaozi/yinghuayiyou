@@ -405,12 +405,15 @@ a{
 	top: 280px;
 	left: 200px;
 }
-.tour4 li{
+.tour4 a{
 	height: 40px;
 	float: left;
 	margin-left: 85px;
 	margin-bottom: 45px;
 	padding: 0 45px;
+}
+.tour4 a:hover{
+	color: red;
 }
 .toura{
 	background: url(../images/u9.jpg) no-repeat left center;
